@@ -14,6 +14,30 @@
 
 ---
 
+## 💡 開発背景 (Story)
+**「AIで作ったマンガ、修正するの面倒くさくないですか？」**
+元漫画家の視点から、このツールが生まれた経緯をマンガにしました。
+
+<img src="comic_01.jpg" alt="Story 1" width="450">
+<img src="comic_02.jpg" alt="Story 1" width="450">
+<img src="comic_03.jpg" alt="Story 1" width="450">
+---
+
+## 📖 使い方 (How to use)
+
+画像ファイルをドラッグ＆ドロップするだけで完了します！
+
+<img src="usage_guide.jpg" alt="Story 1" width="450">
+
+## 🚀 デモアプリ (Try it out!)
+ブラウザですぐに使えます（インストール不要）：
+**[👉 アプリを使ってみる (ここをクリック)](https://manga-panel-splitter-ehyfmzgpfhhbxc27jyciqi.streamlit.app/)**
+
+1.  上記のデモアプリのリンクを開きます。
+2.  マンガの画像（JPG/PNG）をドラッグ＆ドロップします。
+3.  「コマを抽出する」ボタンを押します。
+4.  結果を確認し、「まとめてダウンロード」ボタンで保存します。
+
 ## ✨ 特徴 (Features)
 
 * **⚡ 自動検出**: 画像を解析し、コマの枠線を自動で認識してクロップします。
